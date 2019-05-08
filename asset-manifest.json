@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/luizaceps/static/js/main.b4c95443.chunk.js",
+    "main.js.map": "/luizaceps/static/js/main.b4c95443.chunk.js.map",
+    "runtime~main.js": "/luizaceps/static/js/runtime~main.69ab4330.js",
+    "runtime~main.js.map": "/luizaceps/static/js/runtime~main.69ab4330.js.map",
+    "static/css/2.5d832d7a.chunk.css": "/luizaceps/static/css/2.5d832d7a.chunk.css",
+    "static/js/2.10f225e9.chunk.js": "/luizaceps/static/js/2.10f225e9.chunk.js",
+    "static/js/2.10f225e9.chunk.js.map": "/luizaceps/static/js/2.10f225e9.chunk.js.map",
+    "index.html": "/luizaceps/index.html",
+    "precache-manifest.f0834d3465bb90f3889651695c8b3554.js": "/luizaceps/precache-manifest.f0834d3465bb90f3889651695c8b3554.js",
+    "service-worker.js": "/luizaceps/service-worker.js",
+    "static/css/2.5d832d7a.chunk.css.map": "/luizaceps/static/css/2.5d832d7a.chunk.css.map",
+    "static/media/close.e85191c6.svg": "/luizaceps/static/media/close.e85191c6.svg"
+  }
+}
