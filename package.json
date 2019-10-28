@@ -1,7 +1,7 @@
 {
-  "name": "luizaceps",
+  "name": "zipcode-finder",
   "version": "1.0.0",
-  "homepage": "https://paesvitor.github.io/luizaceps",
+  "homepage": "https://paesvitor.github.io/zipcode-finder",
   "private": true,
   "dependencies": {
     "cleave.js": "^1.4.10",
